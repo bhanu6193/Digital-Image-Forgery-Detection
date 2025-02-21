@@ -2,6 +2,9 @@
 
 This project detects forged images using **Deep Learning** and **Discrete Wavelet Transform (DWT)** for feature extraction.  
 
+## Link
+https://digital-image-forgery-detection-6bd5shcedbt8akixfzr7e9.streamlit.app/
+
 ## 🚀 Features  
 - Detects image forgery using **DWT & CNN models**  
 - Supports real-time image analysis  
